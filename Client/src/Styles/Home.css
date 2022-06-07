@@ -1,0 +1,22 @@
+.container{
+   padding-top: 5%;
+   margin-left:7%;
+     display:grid ;
+     width: 90%;
+    grid-template-columns: repeat(3,1fr);
+    row-gap:3% ;
+   padding-bottom:  10%;
+   height: auto;
+ 
+}
+.box{
+    border: 1px solid red;
+    width: 90%;
+}
+img{
+    height: 200px;
+}
+.pricesort{
+    padding-top: 6%;
+    margin-left: 70%;
+}
